@@ -7,6 +7,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: 'Apercu', sans-serif;
+    overflow: hidden;
 }
 
 .main {
@@ -53,7 +54,7 @@ p {
     }
 
     .content img {
-        max-width: 400px;
+        max-width: 300px;
         margin: auto;
     }
 
